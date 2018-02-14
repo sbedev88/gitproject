@@ -8,8 +8,8 @@ public class Application {
 
 	//	addition(5,6);
 
-		System.out.println("app 6");
-		System.out.println("app 5");
+		System.out.println("app 7");
+		
 
 	}
 
