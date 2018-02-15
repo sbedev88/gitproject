@@ -16,7 +16,7 @@ public class ApplicationTest extends TestCase{
 	@Before
 	public void setUp(){
 		
-		System.out.println("test");
+		System.out.println("test 2");
 		
 	}
 	
