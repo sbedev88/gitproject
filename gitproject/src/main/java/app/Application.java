@@ -9,11 +9,9 @@ public class Application {
 	//	addition(5,6);
 
 		
-		System.out.println("app 14");
-		
+			System.out.println("app 14");
 
-	}
-
+}
 	public int addition(int a, int b) {
 
 		return a + b ;
